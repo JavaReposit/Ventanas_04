@@ -7,3 +7,4 @@ de la libreria *Modelo.jar*
 
 ## Requisitos: 
 - jdk1.8.0_221
+- javahelp2_0_05
